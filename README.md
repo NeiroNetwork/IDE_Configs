@@ -1,2 +1,0 @@
-# PhpStorm_CodeStyle
-PocketMine-MPのコーディングスタイルを適応したPhpStorm用の設定ファイル
