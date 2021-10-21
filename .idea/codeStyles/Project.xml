@@ -14,13 +14,10 @@
       <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
       <option name="NEW_LINE_AFTER_PHP_OPENING_TAG" value="true" />
       <option name="SPACE_BEFORE_COLON_IN_RETURN_TYPE" value="true" />
-      <option name="ATTRIBUTES_WRAP" value="2" />
-      <option name="PARAMETERS_ATTRIBUTES_WRAP" value="2" />
     </PHPCodeStyleSettings>
     <codeStyleSettings language="PHP">
       <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
       <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
-      <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
       <option name="CLASS_BRACE_STYLE" value="1" />
       <option name="METHOD_BRACE_STYLE" value="1" />
       <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
@@ -47,7 +44,6 @@
       <option name="SPACE_BEFORE_FINALLY_KEYWORD" value="false" />
       <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
       <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
-      <option name="TERNARY_OPERATION_WRAP" value="1" />
       <option name="ARRAY_INITIALIZER_WRAP" value="5" />
       <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
       <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
