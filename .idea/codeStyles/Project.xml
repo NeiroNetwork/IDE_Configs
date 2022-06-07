@@ -2,6 +2,8 @@
   <code_scheme name="Project" version="173">
     <PHPCodeStyleSettings>
       <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
+      <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
+      <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
       <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
       <option name="GROUP_USE_WRAP" value="0" />
       <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
@@ -13,6 +15,7 @@
       <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
       <option name="NEW_LINE_AFTER_PHP_OPENING_TAG" value="true" />
       <option name="SPACE_BEFORE_COLON_IN_RETURN_TYPE" value="true" />
+      <option name="FORCE_EMPTY_METHODS_IN_ONE_LINE" value="true" />
       <option name="ATTRIBUTES_WRAP" value="2" />
       <option name="PARAMETERS_ATTRIBUTES_WRAP" value="2" />
     </PHPCodeStyleSettings>
@@ -46,6 +49,9 @@
       <option name="SPACE_BEFORE_FINALLY_KEYWORD" value="false" />
       <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
       <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+      <option name="TERNARY_OPERATION_WRAP" value="1" />
+      <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+      <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
       <option name="ARRAY_INITIALIZER_WRAP" value="5" />
       <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
       <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
