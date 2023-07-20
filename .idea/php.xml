@@ -3,10 +3,17 @@
   <component name="PhpIncludePathManager">
     <include_path>
       <path value="$PROJECT_DIR$/../../PocketMine-MP.phar" />
+      <path value="$PROJECT_DIR$/../../src" />
+      <path value="$PROJECT_DIR$/../../vendor" />
       <path value="$PROJECT_DIR$/../../virions" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="8.1">
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="95ead3ac-210a-4f3d-828c-c8ebd7634c2d" name="PocketMine-MP PHP" home="$PROJECT_DIR$/../../bin/php/php.exe" false="false" custom_ini="$PROJECT_DIR$/../../bin/php/php.ini" />
+    </interpreters>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.2">
     <option name="suggestChangeDefaultLanguageLevel" value="false" />
   </component>
 </project>
